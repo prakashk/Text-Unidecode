@@ -1,11 +1,11 @@
 
 require 5.006;
-package Text::Unidecode;
+package Text::Unidecode;  # Time-stamp: "2001-07-14 02:29:41 MDT"
 use utf8;
 use strict;
 use integer; # vroom vroom!
 use vars qw($VERSION @ISA @EXPORT @Char $NULLMAP);
-$VERSION = 0.03;
+$VERSION = '0.04';
 require Exporter;
 @ISA = ('Exporter');
 @EXPORT = ('unidecode');

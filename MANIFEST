@@ -1,8 +1,9 @@
 ChangeLog
 MANIFEST
-Makefile
+MANIFEST.SKIP
 Makefile.PL
 README
+TODO.txt
 lib/Text/Unidecode.pm
 lib/Text/Unidecode/x00.pm
 lib/Text/Unidecode/x01.pm
